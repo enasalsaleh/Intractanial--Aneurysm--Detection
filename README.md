@@ -19,4 +19,5 @@ A trained deep learning model is used to analyze images and determine whether an
 4. Upload the test images folder (`extra test`) when prompted.
 5. Run all cells in order to execute the project and test the model on the images.
 
-
+---
+#Note: The trained model file (ct_model.h5) is not included in the repository due to GitHub file size limitations.
